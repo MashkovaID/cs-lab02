@@ -14,5 +14,8 @@ int main()
     cout<< " max = "
     if(a>b) {cout<<a<<'\n'}
     else {cout<<b<<'\n'}
+    cout<< " min = "
+    if(a<b) {cout<<a<<'\n'}
+    else {cout<<b<<'\n'}
     return 0;
 }
